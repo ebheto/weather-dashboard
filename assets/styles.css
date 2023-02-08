@@ -1,0 +1,68 @@
+h2 {
+    text-align: justify;
+    margin: 30px;
+}
+
+#today {
+    border: solid gray 2px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightgray;
+}
+
+.card {
+    margin: 10px;
+    
+}
+
+.card-body {
+    background-color: lightslategray;
+
+}
+
+.btn-primary{
+    background-color: blue !important;
+    border-radius: 5px !important;
+    margin: 10px;
+    width: 300px;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: black !important;
+}
+
+.search-history {
+    background-color: lightgrey;
+    border-radius: 5px !important;
+    margin: 10px;
+
+}
+
+.search-history:hover {
+    background-color: darkgray !important;
+}
+
+.form-input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+img {
+    height: 70px;
+    margin: -15px;
+    padding: 10px;
+}
+
+#no-response {
+    display: none;
+}
+
+.loadDisplay {
+    display: none;
+}
+
+.form-inline {
+    margin-left: -20px;
+}
